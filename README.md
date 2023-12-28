@@ -1,7 +1,5 @@
-# Basit TCP/IP Sohbet Uygulaması
-
-## Türkçe Kullanım
-
+## Basit TCP/IP Sohbet Uygulaması
+ 
 ### Kurulum Adımları
 1. Projeyi Visual Studio'da açın.
 2. `ClientIO` projesindeki `Program.cs` dosyasında `IpAdrress` değişkenini kendi IP adresinizle değiştirin.
@@ -23,9 +21,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Simple TCP/IP Chat Application
-
-## English Usage
+## Simple TCP/IP Chat Application
 
 ### Installation Steps
 1. Open the project in Visual Studio.
