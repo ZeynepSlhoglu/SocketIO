@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerIO", "SocketIO\ServerIO.csproj", "{909E2845-24B4-47F8-B919-DCA46C007539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientIO", "ClientIO\ClientIO.csproj", "{03F4FE26-13DB-47B2-8ADB-5D71ECE0FEB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909E2845-24B4-47F8-B919-DCA46C007539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909E2845-24B4-47F8-B919-DCA46C007539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909E2845-24B4-47F8-B919-DCA46C007539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909E2845-24B4-47F8-B919-DCA46C007539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F4FE26-13DB-47B2-8ADB-5D71ECE0FEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F4FE26-13DB-47B2-8ADB-5D71ECE0FEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F4FE26-13DB-47B2-8ADB-5D71ECE0FEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F4FE26-13DB-47B2-8ADB-5D71ECE0FEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E41164C3-B1D8-41B3-AF5B-7A191B0E53B9}
+	EndGlobalSection
+EndGlobal
